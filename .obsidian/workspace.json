@@ -23,15 +23,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C_language/Introduction_How_Computers_Work.md",
+                "file": "C_language/C_Programming_by_Prof_Nitin_Chandrachoodan/Generalized_Memory_&_Computation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction_How_Computers_Work"
+              "title": "Generalized_Memory_&_Computation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,9 +195,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "7311d51c3f6d1b3d",
+  "active": "e66944ae69d883ec",
   "lastOpenFiles": [
-    "C_language/Introduction_How_Computers_Work.md",
+    "C_language/C_Programming_by_Prof_Nitin_Chandrachoodan/Introduction_How_Computers_Work.md",
+    "C_language/C_Programming_by_Prof_Nitin_Chandrachoodan/Generalized_Memory_&_Computation.md",
+    "C_language/C_Programming_by_Prof_Nitin_Chandrachoodan",
     "Calculus/MIT_18.01_David_Jarison/Lecture6_Exponentials_and_Logarithms.md",
     "C_language",
     "Calculus/MIT_18.01_David_Jarison/Lecture5_Implicit_Differentiation.md",
@@ -226,11 +229,9 @@
     "Backend/API_RESTAPI.md",
     "Backend/FastAPI_Fundamentals.md",
     "Backend/SQL_Fundamentals.md",
-    "Calculus/MIT_18.01_David_Jarison/Lecture9_Linear_&_Quadratic_approximations.md",
     "Calculus/MIT_18.01_David_Jarison",
     "Calculus",
     "ML/ML_Specialization_Andrew_Ng",
-    "ML",
-    "TCP"
+    "ML"
   ]
 }
