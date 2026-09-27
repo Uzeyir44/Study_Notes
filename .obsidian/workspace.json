@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "ebab2df36916a0f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "322d6d66d43b537b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7311d51c3f6d1b3d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "e66944ae69d883ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C_language/Introduction_How_Computers_Work.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction_How_Computers_Work"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b18204b6ae25e60",
+    "type": "split",
+    "children": [
+      {
+        "id": "435fdcb945323914",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dedaf252579f8725",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2a1f9fba8bd078ea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6f2f6810b2b330cf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "550a9cf7f4b5a689",
+    "type": "split",
+    "children": [
+      {
+        "id": "5370fa322b391421",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd38a55f6edbd3a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "81189bd03ae89cbb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ML/ML_Specialization_Andrew_Ng/Supervised_vs_Unsupervised_Learning.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Supervised_vs_Unsupervised_Learning"
+            }
+          },
+          {
+            "id": "ff66bf3493d2353b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1e672fd939968303",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "982fe158a56444fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ML/ML_Specialization_Andrew_Ng/Supervised_vs_Unsupervised_Learning.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Supervised_vs_Unsupervised_Learning"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7311d51c3f6d1b3d",
+  "lastOpenFiles": [
+    "C_language/Introduction_How_Computers_Work.md",
+    "Calculus/MIT_18.01_David_Jarison/Lecture6_Exponentials_and_Logarithms.md",
+    "C_language",
+    "Calculus/MIT_18.01_David_Jarison/Lecture5_Implicit_Differentiation.md",
+    "Calculus/MIT_18.01_David_Jarison/Lecture4_Chain_Rule.md",
+    "Calculus/MIT_18.01_David_Jarison/Lecture3_Derrivatives.md",
+    "Electronics/MIT_6.002_Circuits_&_Electronics/Lecture1_Introduction_&_Lumped_Abstraction.md",
+    "ML/ML_Specialization_Andrew_Ng/Feature_Scalling.md",
+    "ML/ML_Specialization_Andrew_Ng/NumPy_Essentials_for_ML.md",
+    "ML/ML_Specialization_Andrew_Ng/Gradient_Descent.md",
+    "ML/ML_Specialization_Andrew_Ng/Multivariable_Linear_Regression.md",
+    "ML/ML_Specialization_Andrew_Ng/Cost_Function.md",
+    "Network/CISCO_Networking_BHOS/Introduction_to_Networking.md",
+    "Linear Algebra/MIT_18.06_Gilbert_Strang_Lectures/Lecture1_The_Geometry_of_Linear_Equations.md",
+    "Network/CISCO_Networking_BHOS",
+    "Network",
+    "Electronics/MIT_6.002_Circuits_&_Electronics",
+    "Electronics",
+    "Untitled.md",
+    "ML/ML_Specialization_Andrew_Ng/Linear_Regression.md",
+    "Linear Algebra/MIT_18.06_Gilbert_Strang_Lectures/Lecture6_Column_&_Null_space.md",
+    "Linear Algebra/MIT_18.06_Gilbert_Strang_Lectures/Lecture7_Solving_Ax=0_Pivot_Variables_&_Special_Solutions.md",
+    "ML/ML_Specialization_Andrew_Ng/Supervised_vs_Unsupervised_Learning.md",
+    "Backend/PostgreSQL_Fundamentals.md",
+    "Backend/Database_design_&_Relational_modeling.md",
+    "Backend/Git_&_Github.md",
+    "Linear Algebra/MIT_18.06_Gilbert_Strang_Lectures/Lecture5_Trasposes_Permutations_Vector_spaces.md",
+    "Backend/API_RESTAPI.md",
+    "Backend/FastAPI_Fundamentals.md",
+    "Backend/SQL_Fundamentals.md",
+    "Calculus/MIT_18.01_David_Jarison/Lecture9_Linear_&_Quadratic_approximations.md",
+    "Calculus/MIT_18.01_David_Jarison",
+    "Calculus",
+    "ML/ML_Specialization_Andrew_Ng",
+    "ML",
+    "TCP"
+  ]
+}
