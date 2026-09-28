@@ -23,16 +23,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C_language/C_Programming_by_Prof_Nitin_Chandrachoodan/Generalized_Memory_&_Computation.md",
+                "file": "Network/CISCO_Networking_BHOS/Introduction_to_Networking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Generalized_Memory_&_Computation"
+              "title": "Introduction_to_Networking"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,10 +194,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "e66944ae69d883ec",
+  "active": "7311d51c3f6d1b3d",
   "lastOpenFiles": [
-    "C_language/C_Programming_by_Prof_Nitin_Chandrachoodan/Introduction_How_Computers_Work.md",
+    "Network/CISCO_Networking_BHOS/Introduction_to_Networking.md",
+    "Network/CISCO_Networking_BHOS/Cisco_IOS_and_Basic_Device_Configuration.md",
     "C_language/C_Programming_by_Prof_Nitin_Chandrachoodan/Generalized_Memory_&_Computation.md",
+    "C_language/C_Programming_by_Prof_Nitin_Chandrachoodan/Introduction_How_Computers_Work.md",
     "C_language/C_Programming_by_Prof_Nitin_Chandrachoodan",
     "Calculus/MIT_18.01_David_Jarison/Lecture6_Exponentials_and_Logarithms.md",
     "C_language",
@@ -211,7 +212,6 @@
     "ML/ML_Specialization_Andrew_Ng/Gradient_Descent.md",
     "ML/ML_Specialization_Andrew_Ng/Multivariable_Linear_Regression.md",
     "ML/ML_Specialization_Andrew_Ng/Cost_Function.md",
-    "Network/CISCO_Networking_BHOS/Introduction_to_Networking.md",
     "Linear Algebra/MIT_18.06_Gilbert_Strang_Lectures/Lecture1_The_Geometry_of_Linear_Equations.md",
     "Network/CISCO_Networking_BHOS",
     "Network",
@@ -228,7 +228,6 @@
     "Linear Algebra/MIT_18.06_Gilbert_Strang_Lectures/Lecture5_Trasposes_Permutations_Vector_spaces.md",
     "Backend/API_RESTAPI.md",
     "Backend/FastAPI_Fundamentals.md",
-    "Backend/SQL_Fundamentals.md",
     "Calculus/MIT_18.01_David_Jarison",
     "Calculus",
     "ML/ML_Specialization_Andrew_Ng",

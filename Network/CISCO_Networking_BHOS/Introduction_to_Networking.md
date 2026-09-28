@@ -573,3 +573,5 @@ A single security tool cannot solve all problems. Networks require a defense-in-
 - **Network Security** $\rightarrow$ Prepares you for configuring Access Control Lists (ACLs) on Cisco routers to explicitly permit or deny traffic flows.
     
 - **IoT & Convergence** $\rightarrow$ As a CS/Embedded Systems student, this introduces how localized microcontrollers (IoT) leverage IP networks to interact with global cloud infrastructure, which will be highly relevant in ML/Robotics telemetry.
+
+[[Cisco_IOS_and_Basic_Device_Configuration]]
