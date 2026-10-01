@@ -334,3 +334,4 @@ $$\;\;\longrightarrow\;\; \text{Special Solutions form a Basis for the Null Spac
 $$\;\;\longrightarrow\;\; \text{Complete solution: } x = c_1 s_1 + c_2 s_2 + \dots + c_{n-r} s_{n-r}$$
 
 [[Lecture6_Column_&_Null_space]]
+[[Lecture8_Solving_Ax=b]]

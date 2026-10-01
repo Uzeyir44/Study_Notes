@@ -461,3 +461,6 @@ _(Note: These are conceptual connections, as C abstracts away some of the lowest
 ## 23. Mental Model
 
 A computer features specialized hardware capable of performing basic arithmetic and logical operations. Rather than physically locking the machine into performing just one task, the _operation to perform_ can itself be encoded, represented as digital information, and stored alongside data in a unified memory. Once operations can be encoded and stored in memory, we can arrange them into sequences. A sequence of these instructions forms a program. Because of this architecture, the exact same general-purpose hardware can perform a nearly infinite variety of tasks, simply depending on which instructions and data are currently stored in its memory.
+
+
+[[Introduction_How_Computers_Work]]

@@ -205,3 +205,5 @@ A computer is a physical system that takes information, represents it as electri
 10. What is an abstraction, and why do we use abstractions like "addresses" instead of talking about voltages and transistors?
     
 11. How do the concepts of memory and addresses connect to what will eventually become variables and pointers in C?
+
+[[Generalized_Memory_&_Computation]]
