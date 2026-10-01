@@ -857,3 +857,4 @@ A scaled linear regression model yields the prediction equation $\hat{y} = 3.0 \
 5. **Mathematical Reasoning:** Why does adding a scalar constant $c$ to every feature value in a dataset change the bias parameter $b$ found by Linear Regression, but leave the optimal feature weight parameter $w$ completely unchanged?
 
 [[Multivariable_Linear_Regression]]
+[[Feature_Engineering_&_Polynomial_Regression]]
