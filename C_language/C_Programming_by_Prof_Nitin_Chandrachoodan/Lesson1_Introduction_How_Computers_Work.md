@@ -206,4 +206,4 @@ A computer is a physical system that takes information, represents it as electri
     
 11. How do the concepts of memory and addresses connect to what will eventually become variables and pointers in C?
 
-[[Generalized_Memory_&_Computation]]
+[[Lesson2_Generalized_Memory_&_Computation]]

@@ -486,3 +486,4 @@ Everything you type takes effect immediately in its short-term memory (RAM / run
 12. "Administratively Down" means the port is intentionally shut off in the configuration by a human or default policy. It is not a hardware failure or a cabling issue; someone must manually type `no shutdown` to fix it.
 
 [[Introduction_to_Networking]]
+[[Protocols_&_Models]]
