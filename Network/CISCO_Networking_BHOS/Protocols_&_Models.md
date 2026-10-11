@@ -412,3 +412,4 @@ The OSI model is not just academic; it is the ultimate troubleshooting checklist
 20. It adds Port numbers (Source and Destination). This is necessary so the receiving machine knows _which application_ (e.g., Web browser vs Email client) should receive the data.
 
 [[Cisco_IOS_and_Basic_Device_Configuration]]
+[[Physical_Layer]]

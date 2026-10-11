@@ -23,16 +23,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus/MIT_18.01_David_Jarison/Lecture18_Definite_Integral.md",
+                "file": "Network/CISCO_Networking_BHOS/Protocols_&_Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture18_Definite_Integral"
+              "title": "Protocols_&_Models"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,12 +194,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "e66944ae69d883ec",
+  "active": "7311d51c3f6d1b3d",
   "lastOpenFiles": [
-    "Network/CISCO_Networking_BHOS/Cisco_IOS_and_Basic_Device_Configuration.md",
-    "Calculus/MIT_18.01_David_Jarison/Lecture18_Definite_Integral.md",
-    "ML/ML_Specialization_Andrew_Ng/Classification_&_Logistic_Regression.md",
     "Network/CISCO_Networking_BHOS/Protocols_&_Models.md",
+    "Network/CISCO_Networking_BHOS/Physical_Layer.md",
+    "Calculus/MIT_18.01_David_Jarison/Lecture18_Definite_Integral.md",
+    "Network/CISCO_Networking_BHOS/Cisco_IOS_and_Basic_Device_Configuration.md",
+    "ML/ML_Specialization_Andrew_Ng/Classification_&_Logistic_Regression.md",
     "C_language/C_Programming_by_Prof_Nitin_Chandrachoodan/Lesson2_Generalized_Memory_&_Computation.md",
     "C_language/C_Programming_by_Prof_Nitin_Chandrachoodan/Lesson1_Introduction_How_Computers_Work.md",
     "C_language/C_Programming_by_Prof_Nitin_Chandrachoodan/Lesson3_Cpu_Registers_Main_Memory.md",
@@ -224,7 +224,6 @@
     "ML/ML_Specialization_Andrew_Ng/Gradient_Descent.md",
     "ML/ML_Specialization_Andrew_Ng/Multivariable_Linear_Regression.md",
     "ML/ML_Specialization_Andrew_Ng/Cost_Function.md",
-    "Linear Algebra/MIT_18.06_Gilbert_Strang_Lectures/Lecture1_The_Geometry_of_Linear_Equations.md",
     "Network/CISCO_Networking_BHOS",
     "Network",
     "Electronics/MIT_6.002_Circuits_&_Electronics",
