@@ -514,3 +514,5 @@ In future lectures, integration will be used to find volumes of 3D solids, lengt
 11. An accumulation function $A(x)$ tracks the running total of accumulated area. Its derivative is the curve itself: $A'(x) = f(x)$.
     
 12. **The Fundamental Theorem of Calculus tells us that this accumulation can be computed using an antiderivative, which is why evaluating $F(b) - F(a)$ gives the exact same result as the limiting rectangle sum.**
+
+[[Lecture15_Antiderivatives]]
